@@ -15,8 +15,8 @@ inicio
 
    // Verifica se é possível formar um triângulo
    se lado1 < lado2 + lado3 e lado2 < lado1 + lado3 e lado3 < lado1 + lado2 entao
-      escreva("É possível formar um triângulo com os lados informados.")
+      escreva("É possível formar um triângulo com os lados informados!")
    senao
-      escreva("Não é possível formar um triângulo com os lados informados.")
+      escreva("Não é possível formar um triângulo com os lados informados!")
    fimse
 fimalgoritmo
