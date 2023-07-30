@@ -18,4 +18,4 @@ inicio
            C <- C + incremento
   FimEnquanto
 Escreval (" Acabou")
-fimalgoritmo
+fimalgoritmo;
