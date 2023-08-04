@@ -5,7 +5,7 @@ var
 contador: inteiro
 
 inicio
-   Escreval("+-------=======------+")
+   Escreva("+-------=======------+")
    para contador de 1 ate quantidade faca
    Escreval(X)
    Escreval("+-------=======------+"))===------+")
