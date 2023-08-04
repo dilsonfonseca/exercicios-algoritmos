@@ -24,4 +24,4 @@ inicio
       Leia (n2)
       v2 <- Verificar(n1,n2)
       Escreva (v2)
-fimalgoritmoddd
+fimalgoritmo
