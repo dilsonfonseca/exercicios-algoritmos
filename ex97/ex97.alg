@@ -24,4 +24,4 @@ inicio
       Leia (n3)
       M <- Verificar(n1,n2,n3)
       Escreva ("O maior número é:", M)
-fimalgoritm
+fimalgoritmo
